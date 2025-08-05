@@ -21,6 +21,11 @@ body {
 }
 
 .top-part {
+  background: #000000;
+  border-right: rgb(141, 132, 132) 20px solid;
+  border-left: rgb(141, 132, 132) 20px solid;
+  border-top: rgb(237, 197, 123) 20px solid;
+  border-bottom: rgb(237, 197, 123) 20px solid;
   flex: 1;
   display: flex;
   flex-direction: column;
